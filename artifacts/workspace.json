@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid51330",
+  "B": "/home/dev/feedback/uid51330",
+  "sha": "890a3208b24e8b267a57b355b4024379354ab9c4",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "FNA-XNA",
+    "repo": "FNA",
+    "sha": "890a3208b24e8b267a57b355b4024379354ab9c4"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "FNA",
+    "cloneUrl": "https://github.com/Rrr119/FNA.git"
+  },
+  "at": "2026-11-27T16:00:53.734Z"
+}
